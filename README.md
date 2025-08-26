@@ -6,7 +6,7 @@ Automated screenshot tool for web pages using Playwright.
 
 1. Install dependencies:
 ```bash
-npm install playwright node-fetch form-data dotenv
+npm install
 ```
 
 2. Install Playwright browser:
@@ -42,4 +42,5 @@ For more information about Playwright, visit: [Playwright Documentation](https:/
 
 
 ---
+
 Created with ❤️ by Vyacheslav Naumenko
